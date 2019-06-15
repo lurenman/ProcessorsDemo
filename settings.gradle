@@ -1,0 +1,1 @@
+include ':app', ':annotations', ':api', ':hello-compiler', ':bindview-compiler'
